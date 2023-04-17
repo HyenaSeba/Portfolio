@@ -4,7 +4,7 @@ from tkinter import messagebox
 import time
 from difflib import SequenceMatcher
 
-with open('/Users/andriiminets/Desktop/My_python/Portfolio/My_python/sentences.txt', 'r') as file:
+with open('sentences.txt', 'r') as file:
     lines = file.readlines()
 
 
